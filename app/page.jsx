@@ -1,14 +1,13 @@
+
 import Image from "next/image";
-import About from "./about/page.jsx"
+import Intro from "@/components/Intro";
 
 export default function Home() {
   return (
-    
-      
-     <>
-
-      <About/>
-
-     </>
+    <>
+      <div className=" bg-blue-800">
+        <Intro />
+      </div>
+    </>
   );
 }
