@@ -1,6 +1,6 @@
 import React from 'react'
 
- export default function () {
+ export default function About() {
   return (
     <div className="bg-[#20202e] text-white w-full h-screen flex flex-col justify-center items-center" >
         <div className="w-2/4 mb-5 h-2/6">
