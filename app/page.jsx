@@ -1,4 +1,3 @@
-import Navbar from "@/components/Navbar";
 import Intro from "@/components/Intro";
 
 export default function Home() {
@@ -7,7 +6,6 @@ export default function Home() {
     
       <div className=" bg-blue-800">
         <Intro />
-        <Navbar />
       </div>
 
   
