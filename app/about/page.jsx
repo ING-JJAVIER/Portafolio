@@ -2,10 +2,7 @@ import React from 'react'
 
  export default function About() {
   return (
-    <div className="bg-[#20202e] text-white w-full h-screen flex flex-col justify-center items-center" >
-        <div className="w-2/4 mb-5 h-2/6">
-           
-        </div>
+    <div className="bg-[#20202e] text-white w-full flex flex-col justify-center items-center" >
         <div className="w-4/4 h-4/6 text-5xl flex flex-col">
             <label className="text-3xl mb-12" >Hi, We are</label>
             <label className="ml-12 mb-5">Jose Javier Martínez Mendez</label>
